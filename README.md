@@ -10,7 +10,7 @@ Army Aviation veteran (UH-1H crew chief) and a couple decades in TV/video produc
 
 #### 🏢 What I do
 
-- **Senior Software Cloud Engineer & Team Lead**, Gordon Food Service — enterprise cloud architecture, ETL pipelines, and cross-functional delivery at scale.
+- **Senior Software Cloud Engineer & Team Lead** at a national company — enterprise cloud architecture, ETL pipelines, and cross-functional delivery at scale.
 - **Independent consulting** through Brandager (growth strategy, AI adoption, systems decisions) and Belchamber.us (hands-on AI guidance, delivered personally).
 - **Owner-operator** of five production sites and the tooling that keeps them healthy, secure, and shipping — see below.
 
